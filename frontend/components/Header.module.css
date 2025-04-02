@@ -1,0 +1,10 @@
+
+.add_arrow{
+    position:relative;
+}
+
+.add_arrow::after{
+    position:absolute;
+    content: '\2193';
+    
+}
